@@ -5,6 +5,9 @@
     list-style: none;
     box-sizing: border-box;
 }
+body{
+    background-color: #FFE3FC;
+}
 nav{
     background: black;
     height: 110px;
@@ -29,7 +32,7 @@ nav ul li{
 nav ul li a{
     color: #fff;
     font-size: 21px;
-    font-family: sans-serif;
+    font-family: "Trebuchet MS";
     padding: 50px 15px;
     border-radius:3px;
    

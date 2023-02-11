@@ -8,5 +8,26 @@
 </head>
 <body>
     <h2>Contacto</h2>
+
+    <div class="container-form">
+        <form>
+            <input type="text" placeholder="Nombre" name="nombre2"><br>
+            <input type="email" placeholder="Email" name="email"><br>
+            <label for="motivo">Motivo de consulta</label><br>
+            <input type="radio" name="subject" value="Evaluación">
+            <label for="Evaluación">Evaluación</label><br>
+            <input type="radio" name="subject" value="Sugerencias">
+            <label for="Sugerencias">Sugerencias</label><br>
+            <input type="radio" name="subject" value="Críticas">
+            <label for="Críticas">Crítias</label><br>
+            <textarea name="body" placeholder="Consulta"></textarea><br>
+            <input type="checkbox" name="terms" value="Aceptar" aria-required="true">
+            <label for="terminos">Marque esta casilla para verificar que ha leído nuestros términos y condiciones del servicio</label><br>
+            <input type="button" value="Enviar" id="emailButton" onclick="send()">
+        </form>
+    </div>
+
+    <script src="js/mail.js"></script>
+
 </body>
 </html>

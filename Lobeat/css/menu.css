@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #FFE3FC;
+    background-color: #FFF1FD;
 }
 nav{
     background: black;
@@ -40,4 +40,10 @@ nav ul li a{
 li a.active, li a:hover{
   background: #9e2657;
   transition: 5.s;
+}
+.capa{
+    margin-top: 60px;
+    margin-left: 18%;
+    float: center;
+    border-radius: 15px;
 }

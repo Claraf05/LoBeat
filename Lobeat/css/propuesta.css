@@ -1,0 +1,14 @@
+*{
+    background-color: white;
+}
+.detalles{
+    font-style: #FFF1FD;
+    font-size: 40px;
+}
+.alineados{
+    display: inline-block;
+   
+}
+h2{
+    margin-right: 5%;
+}

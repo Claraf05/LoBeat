@@ -5,10 +5,28 @@
     font-style: #FFF1FD;
     font-size: 40px;
 }
-.alineados{
-    display: inline-block;
-   
+
+h1{
+    margin-left: 25px;
+    margin-top: 30px;
+    font-size: 50px;
+    font-family:"Verdana";
 }
-h2{
-    margin-right: 5%;
+h3{
+    margin-left: 25px;
+    margin-top: 15px;
+    font-size: 30px;
+    font-family:"Verdana";
+}
+.logo{
+    height: 260px;
+    margin-left: 100px;
+    margin: 100px;
+}
+form{
+    margin-top:50px;
+    margin-left:100px;
+}
+p, li{
+    margin: 20px;
 }

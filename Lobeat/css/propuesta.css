@@ -30,3 +30,7 @@ form{
 p, li{
     margin: 20px;
 }
+.linea{
+    size:3px;
+    color:"#FFF1FD"
+  }

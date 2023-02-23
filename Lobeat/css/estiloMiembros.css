@@ -39,7 +39,10 @@ body {
     width: 500px;
     height: 300px; 
   }
-  
+  .linea{
+    size:3px;
+    color:"#FFF1FD"
+  }
   
   
   

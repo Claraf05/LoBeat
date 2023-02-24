@@ -3,21 +3,12 @@ body {
 font-family:"Verdana";
 }
 
-*{
-  background-color: white;
-}
-
 h1{
-  margin-left: 25px;
+  margin-left: 30px;
   margin-top: 30px;
   font-size: 50px;
   font-family:"Verdana";
   padding: 20px;
-}
-
-nav {
-  text-align: center;
-  margin-right: 40px;
 }
 
 ul {
@@ -39,7 +30,7 @@ img {
   width: 500px;
   height: 300px; 
 }
-.linea{
+.linea {
   size:3px;
   color:"#FFF1FD"
 }

@@ -1,0 +1,22 @@
+
+body {
+  font-family:"Verdana";
+}
+
+*{
+  background-color: white;
+}
+
+section {
+  padding: 50px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain; 
+}
+.linea{
+  size:3px;
+  color:"#FFF1FD"
+}

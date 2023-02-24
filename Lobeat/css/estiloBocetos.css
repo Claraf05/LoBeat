@@ -20,3 +20,14 @@ img {
   size:3px;
   color:"#FFF1FD"
 }
+
+.img_boceto {
+  float: left;
+  height: 400px;
+  margin: 2%;
+}
+
+.texto_bocetos {
+  height: 400px;
+  margin-top: 30px;
+}
